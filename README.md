@@ -1,1 +1,3 @@
 In this Deep Learning project, I used Transfer Learning models offered by Tensorflow and Keras (Python). The dataset of the project is about 3 different images of some repair or construction materials having 6 distinct categories. After loading and preparing the data for modeling, I used MobileNet Convolutional Neural Network (CNN) architecture and its weights to train a model for classification. Besides this architecture, I also added some convolution layers by Conv2D with MaxPooling method. In the process of training, I also used Dropout and data augmentation techniques to prevent overfitting.
+
+NOTE: Dataset is confidential, therefore, I do not share it here.
